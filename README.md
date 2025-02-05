@@ -5,4 +5,4 @@ Then run
 npm run dev to start the app on localhost.
 Then navigate to server and run node index.js.
 Then you will be notified by console when you are connected.
-Then refresh you browser to see dynamic changes
+Then refresh your browser to see dynamic changes
